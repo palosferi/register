@@ -1,9 +1,9 @@
 {
-    "owner": {
-        "username": "bricksarecool",
-        "email": "sans@black.com"
-    },
-    "records": {
-        "CNAME": "bricksarecool.github.io"
-    }
+  "owner": {
+    "username": "bricksarecool",
+    "email": "sans@black.com"
+  },
+  "records": {
+    "CNAME": "bricksarecool.github.io"
+  }
 }
